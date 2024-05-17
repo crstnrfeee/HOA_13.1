@@ -1,14 +1,9 @@
-[web_servers]
+[all]
 192.168.56.7
 192.168.56.8
 
-[db_servers]
-192.168.56.7
+[Ubuntu]
 192.168.56.8
 
-[file_servers]
+[CentOS]
 192.168.56.7
-192.168.56.8
-
-[workstations]
-192.168.56.8
